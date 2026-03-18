@@ -1,4 +1,4 @@
-function Carddetail() {
+function CardDetail() {
     return (
         <div>
             <h1>Carddetail</h1>
@@ -6,4 +6,4 @@ function Carddetail() {
     )
 }
 
-export default Carddetail;
+export default CardDetail;
